@@ -8,4 +8,7 @@ public class Animal {
     void ab1(){
         System.out.println("Hello");
     }
+       void ab2(){
+        System.out.println("Hello");
+    }
 }
