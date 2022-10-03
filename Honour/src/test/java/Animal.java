@@ -11,4 +11,7 @@ public class Animal {
        void ab2(){
         System.out.println("Hello");
     }
+    void ab4(){
+        System.out.println("Hello");
+    }
 }
