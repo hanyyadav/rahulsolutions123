@@ -5,4 +5,7 @@ public class Animal {
     void ab(){
         System.out.println("Hello");
     }
+    void ab1(){
+        System.out.println("Hello");
+    }
 }
